@@ -8,10 +8,12 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+
+1. Initialize the dataset **X and Y**, set parameters **weight (w), bias (b), learning rate, and epochs**.
+2. Define the **sigmoid function** and compute predictions using the **linear model (z = wX + b)**.
+3. Calculate **gradients (dw, db)** and update **w and b using gradient descent** for multiple epochs.
+4. Compute final probabilities and **plot the logistic curve with the actual data** using matplotlib.
+
 
 ## Program:
 ```
